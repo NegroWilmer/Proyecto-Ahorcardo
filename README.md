@@ -9,7 +9,7 @@ Descripción general del juego: El juego del Ahorcado consiste en que un jugador
 
 Pensamiento Algorítmico
 
-El presente código fue hecho en lenguaje C++, con ayuda de visual studio, los siguientes links le ayudarán a reconocer como correr el código: 
+El presente código fue hecho en lenguaje C++, con ayuda de Visual Studio Code, los siguientes links le ayudarán a reconocer como correr el código: 
 
 En Windows: https://youtu.be/m2FtsEvlmCA?si=Qt4tv_jUu51H-oab
 
